@@ -5,4 +5,6 @@ Willkommen
 Bienvenue
 Welcome
 
-Une nouvelle idée pour le mergeCommits de main add
+ça aurait dû être un mergeCommits
+Une nouvelle idée pour le mergeCommits de main 
+Finalement ça a été un MergeConflicts
