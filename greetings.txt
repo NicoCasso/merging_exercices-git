@@ -4,3 +4,5 @@ Hello
 Willkommen
 Bienvenue
 Welcome
+
+Une nouvelle idée pour le mergeCommits de main add
